@@ -1,0 +1,5 @@
+.venv
+.vscode
+java/rest_api/target
+java/rest_api/src/test
+apex/rest_api/.sfdx
