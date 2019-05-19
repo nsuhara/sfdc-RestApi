@@ -64,7 +64,7 @@ print(json.dumps(res, indent=4))
 
 # 事前準備
 
-## SalesforceのAuth設定
+## SalesforceのOAuth設定
 
 設定 > 作成 > アプリケーション > 接続アプリケーション > `新規`をクリックする
 
